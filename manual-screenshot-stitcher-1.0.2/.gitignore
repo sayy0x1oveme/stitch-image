@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+*.spec
+manual_stitch_*.json
+manual_project.json
+stitched_chat_*.png
+screenshots/
+private/
+*.log
